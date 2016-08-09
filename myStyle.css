@@ -1,0 +1,25 @@
+body {
+    background-color: #f9f0f7
+}
+
+h1 {
+    color: #4a493d;
+   	text-align: center;
+	}
+
+h3 {
+	color: #beb7b1;
+	text-align: center;
+	}
+
+h4 {
+    color: #beb7b1;
+    text-align: center;
+	}
+
+p {
+    color: #4a493d;
+   	font-family: "Lucida Console";
+   	font-size: 20px;
+   	text-align: center;
+	}
