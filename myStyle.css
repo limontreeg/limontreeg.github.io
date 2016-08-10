@@ -1,25 +1,39 @@
 body {
-    background-color: #f9f0f7
+    background-image: "https://inspirationfeeeed.files.wordpress.com/2015/03/stairs-into-the-clouds.png";
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
 
 h1 {
     color: #4a493d;
    	text-align: center;
+    font-family: "Optima";
+ 	
 	}
 
 h3 {
-	color: #beb7b1;
+	color: #a49d96;
 	text-align: center;
+	font-family: "Optima";
 	}
 
 h4 {
-    color: #beb7b1;
+    color: #a49d96;
     text-align: center;
+    font-family: "Optima";
 	}
+
+a {
+	font-family: "Optima";
+	font-size: 19px;
+	text-align: center;
+
+}
 
 p {
     color: #4a493d;
-   	font-family: "Lucida Console";
-   	font-size: 20px;
+   	font-family: "Optima";
+   	font-size: 19px;
    	text-align: center;
 	}
