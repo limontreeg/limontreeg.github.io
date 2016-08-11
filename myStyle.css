@@ -5,6 +5,13 @@ body {
     background-attachment: fixed;
 }
 
+div {
+	color: #d8d2d6;
+	width: 500px;
+    padding: 25px;
+    margin: 25px;
+}
+
 h1 {
     color: #4a493d;
    	text-align: center;
